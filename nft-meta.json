@@ -1,0 +1,19 @@
+{
+    "name": "CryptoKitty #123",
+    "description": "Um CryptoKitty adorável e único!",
+    "image": "https://i.natgeofe.com/n/548467d8-c5f1-4551-9f58-6817a8d2c45e/NationalGeographic_2572187_16x9.jpg",
+    "attributes": [
+      {
+        "trait_type": "Pelagem",
+        "value": "Tabby"
+      },
+      {
+        "trait_type": "Olhos",
+        "value": "Esmeralda"
+      },
+      {
+        "trait_type": "Acessório",
+        "value": "Laço vermelho"
+      }
+    ]
+  }
