@@ -1,19 +1,15 @@
 {
-    "name": "meow meowmeow meowmeow meowmeow meowmeow meowmeow meowmeow meow",
-    "description": "meow meow",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/908.png",
+    "name": "NFT Aleatório",
+    "description": "Um NFT com atributos aleatórios",
+    "image": "https://example.com/image.png",
     "attributes": [
-      {
-        "trait_type": "Pelagem",
-        "value": "Tabby"
-      },
-      {
-        "trait_type": "Olhos",
-        "value": "Esmeralda"
-      },
-      {
-        "trait_type": "Acessório",
-        "value": "Laço vermelho"
-      }
+        {
+            "trait_type": "Cor",
+            "value": "Azul"
+        },
+        {
+            "trait_type": "Raridade",
+            "value": "Ultra Raro"
+        }
     ]
-  }
+}
