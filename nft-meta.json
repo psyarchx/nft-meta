@@ -1,15 +1,8 @@
 {
-    "name": "NFT Aleatório",
-    "description": "Um NFT com atributos aleatórios",
-    "image": "https://example.com/image.png",
+    "name": "Phreakszn14",
+    "description": "SYNDRA ORI HAHAHAHAHAHA",
+    "image": "https://prnt.sc/bEwWdNPA0itS",
     "attributes": [
-        {
-            "trait_type": "Cor",
-            "value": "Azul"
-        },
-        {
-            "trait_type": "Raridade",
-            "value": "Ultra Raro"
-        }
+       "MID"
     ]
 }
